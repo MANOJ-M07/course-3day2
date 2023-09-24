@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestMockingExample", "UnitTestMockingExample\UnitTestMockingExample.csproj", "{41677E2D-F237-44F3-A6E7-3A47C9D2A939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41677E2D-F237-44F3-A6E7-3A47C9D2A939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41677E2D-F237-44F3-A6E7-3A47C9D2A939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41677E2D-F237-44F3-A6E7-3A47C9D2A939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41677E2D-F237-44F3-A6E7-3A47C9D2A939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {270D89EF-41C4-4F2F-A393-1FB4726DD729}
+	EndGlobalSection
+EndGlobal

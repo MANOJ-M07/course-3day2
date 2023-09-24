@@ -1,0 +1,9 @@
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\bin\Debug\OurNunLib.dll
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\bin\Debug\OurNunLib.pdb
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\bin\Debug\nunit.framework.dll
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\bin\Debug\nunit.framework.xml
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\obj\Debug\OurNunLib.csproj.AssemblyReference.cache
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\obj\Debug\OurNunLib.csproj.CoreCompileInputs.cache
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\obj\Debug\OurNunLib.csproj.CopyComplete
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\obj\Debug\OurNunLib.dll
+D:\simplilearn\course-3\day-2\OurNunLib\OurNunLib\obj\Debug\OurNunLib.pdb
